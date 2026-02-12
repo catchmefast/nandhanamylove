@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yayy TYSM!!😍💘 Yu r the luckiest girl in the world! 🎉💝👫",
         message: "Happy Valentine's Day Achuu😘!! I Love you soooo muchhhh💘💝",
-        emojis: "🎁💖🤗😘😘💋"  // These will bounce around
+        emojis: "💖🤗😘😘💋"  // These will bounce around
     },
 
     // Color scheme for the website
