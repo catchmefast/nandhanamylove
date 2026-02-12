@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "TYSM!!😍💘 Yu r the luckiest girl in the world! 🎉💝👫",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yayy TYSM!!😍💘 Yu r the luckiest girl in the world! 🎉💝👫",
+        message: "Happy Valentine's Day!!! Love you soooo muchhhh💘💝",
         emojis: "🎁💖🤗😘😘💋"  // These will bounce around
     },
 
