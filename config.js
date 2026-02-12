@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
+            text: "Do you like me?😍",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! ur the luckiest person in the world! 🎉💝💖💝💓",
+        title: "TYSM!!😍💘 Yu r the luckiest girl in the world! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗😘😘💋"  // These will bounce around
     },
